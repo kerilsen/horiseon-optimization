@@ -18,11 +18,12 @@ n/a
 
 To use this website, you can click on the links at the top of the site - "Search Engine Optimization," "Online Reputation Management" and "Social Media Marketing" - to be directed to each of these sections.
 
-![Screenshot of Horiseon website](assets/images/screenshot.png)
+![Screenshot of Horiseon website](assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
 
 Original web design &copy Horiseon
+Screenshot provided by project assignment.
 
 ## License
 
